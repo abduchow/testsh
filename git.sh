@@ -3,6 +3,6 @@
 echo "Welcome to Git world"
 
 name="Palash"
-
-echo " My name is $name "
+age=45
+echo " My name is $name and my age $age "
 
